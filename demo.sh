@@ -1,3 +1,4 @@
-#!/bin/bash -x
-echo "Hello_World hiiii"
+
+echo "Hello_World how are you"
+
 
